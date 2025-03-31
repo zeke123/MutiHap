@@ -1,0 +1,29 @@
+{
+  "module": {
+    "name": "B_Feature",
+    "type": "feature",
+    "description": "$string:module_desc",
+    "mainElement": "B_FeatureAbility",
+    "deviceTypes": [
+      "phone",
+      "tablet",
+      "2in1",
+      "car"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        "name": "B_FeatureAbility",
+        "srcEntry": "./ets/b_featureability/B_FeatureAbility.ets",
+        "description": "$string:B_FeatureAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:B_FeatureAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true
+      }
+    ]
+  }
+}
