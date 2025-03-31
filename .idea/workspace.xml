@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="700dde52-48ec-4e59-87b7-23a21d08f08c" name="Changes" comment="first commit">
-      <change beforePath="$PROJECT_DIR$/MutiHap" beforeDir="false" afterPath="$PROJECT_DIR$/MutiHap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Feature/src/main/ets/a_featureability/A_FeatureAbility.ets" beforeDir="false" afterPath="$PROJECT_DIR$/A_Feature/src/main/ets/a_featureability/A_FeatureAbility.ets" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -315,6 +315,17 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
